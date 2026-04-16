@@ -1,118 +1,160 @@
 # Layout Guide — Infomeme Carousel @stopnormalisasi.id
 > Panduan visual layout per slide
 > Tanggal: 2026-04-16
+> Updated: 2026-04-16 (redesign visual + tambah spec font & warna final)
 
 ---
 
-## Prinsip Dasar Layout
+## Design Language
 
-1. **Slide 1 selalu teks only** — tanpa meme, tanpa gambar. Hook harus cukup kuat berdiri sendiri.
-2. **Slide 2-7: narasi di atas, meme di bawah** — urutan ini konsisten di semua slide.
-3. **Teks tidak pernah di-overlay di atas meme** — narasi dan meme adalah dua blok terpisah.
-4. **Meme punya caption sendiri** — 1 kalimat pendek di bawah meme, beda font/style dari narasi.
-5. **Slide 8 (CTA) teks only** — kembali ke format teks murni, bukan meme.
+**Konsep:** Dark editorial. Serius tapi tidak dingin. Tegas tapi tidak arogan.
+
+**Inspirasi visual:** Majalah editorial underground + UI dark mode modern.
+
+**Prinsip:**
+1. Slide 1 selalu teks only — hook harus kuat berdiri sendiri, tanpa visual
+2. Slide 2-7: narasi di atas, meme di bawah — dipisah garis tipis merah-ke-transparan
+3. Teks TIDAK pernah di-overlay di atas meme — keduanya blok terpisah
+4. Meme punya caption sendiri — 1 kalimat, italic, abu-abu gelap
+5. Slide 8 (CTA) teks only — kembali ke format teks murni
+
+---
+
+## Palet Warna
+
+| Elemen | Kode | Keterangan |
+|--------|------|------------|
+| Background | `#0D0D0D` | Hitam sedikit warm, bukan pure black |
+| Teks utama | `#F0F0F0` | Off-white, lebih nyaman dari pure white |
+| Teks sekunder | `#E8E8E8` | Narasi body text |
+| Teks dim | `#888888` | Informasi sekunder, sumber data |
+| Teks ghost | `#444444` — `#333333` | Watermark, counter |
+| Aksen utama | `#E63946` | Merah — untuk kata kunci, divider, accent bar |
+| Background symbol | `#1a1a1a` | Untuk elemen dekoratif background (CTA slide) |
+
+---
+
+## Tipografi
+
+| Elemen | Font | Weight | Size |
+|--------|------|--------|------|
+| Hook text (slide 1) | Inter | 900 (Black) | 58px |
+| Label / tag | Inter | 600 | 13px |
+| Slide counter | Inter | 700 | 12-13px |
+| Narrative body | Inter | 400 | 30px |
+| Narrative emphasis | Inter | 700 | 30px |
+| CTA headline | Inter | 800 | 44px |
+| CTA subtext | Inter | 400 | 24px |
+| Hashtag | Inter | 400 | 18px |
+| Meme caption | Inter | 400 italic | 18px |
+| Watermark | Inter | 600 | 13-18px |
+
+**Google Fonts link:**
+```html
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+```
+
+---
+
+## Elemen Desain Berulang
+
+### Accent Bar (kiri)
+Garis vertikal 4-5px di sisi kiri. Gradient merah ke transparan. Ada di semua slide sebagai brand consistency.
+
+### Slide Counter
+Format: `01 / 08` (angka aktif merah, total abu-abu). Posisi: pojok kiri bawah.
+
+### Watermark
+`@stopnormalisasi.id` — pojok kanan bawah, warna sangat gelap (`#2a2a2a` hingga `#444`). Selalu ada, tidak mengganggu.
+
+### Label Tag
+Teks kecil uppercase di pojok kiri atas (`STOP NORMALISASI`, `DISKUSI`, dll). Warna merah atau abu-abu gelap.
+
+### Red Divider
+Garis pendek 48px, height 4px, rounded. Dipakai setelah hook dan di CTA slide sebagai separator.
 
 ---
 
 ## Layout Per Slide
 
-### SLIDE 1 — HOOK
+### SLIDE 1 — HOOK (teks only)
 ```
 ┌─────────────────────────────┐
+│ [label: STOP NORMALISASI]   │  ← top-left, 13px merah
+│                    [●]      │  ← corner dot merah, top-right
 │                             │
-│   [TEKS HOOK]               │
-│   max 2-3 baris             │
-│   font besar, center/left   │
 │                             │
-│   @stopnormalisasi.id       │
-│   (pojok kanan bawah, kecil)│
+│  [HOOK TEXT]                │  ← left-aligned, 58px bold
+│  max 3 baris                │
+│                             │
+│  [━━━━]                     │  ← red divider 48px
+│                             │
+│ 01 / 08    @stopnormalisasi │
 └─────────────────────────────┘
+  ↑ accent bar kiri (gradient)
 ```
-- Background: polos (hitam, putih, atau warna brand)
-- Font: bold, besar
-- Tidak ada gambar, icon, atau meme
-- Watermark akun di pojok kanan bawah
-
----
 
 ### SLIDE 2-7 — NARASI + MEME
 ```
 ┌─────────────────────────────┐
+│ [02 / 08]                   │  ← 12px merah, top-left
 │                             │
-│   [NARASI]                  │
-│   4-7 baris                 │
-│   font regular, lebih kecil │
+│  [NARASI]                   │  ← 30px, line-height 1.7
+│  4-7 baris                  │
 │                             │
-├─────────────────────────────┤
+│ ━━━━━━━━━━━━━━━━━━━ →      │  ← separator merah-ke-transparan
 │                             │
-│   [MEME IMAGE]              │
-│   60-70% lebar slide        │
-│   centered                  │
+│      [MEME IMAGE]           │  ← max 580px wide, centered
 │                             │
-│   "caption meme"            │
-│   italic, kecil             │
+│   "caption meme italic"     │  ← 18px italic, abu-abu
+│                             │
+│                @stopnorm..  │
 └─────────────────────────────┘
 ```
-- Narasi: 40% ruang slide (atas)
-- Meme: 50% ruang slide (tengah-bawah)
-- Caption meme: 10% ruang slide (bawah)
-- Divider tipis antara narasi dan meme (opsional)
-
----
 
 ### SLIDE 8 — CTA
 ```
 ┌─────────────────────────────┐
+│ [label: diskusi]            │  ← top-left, abu-abu
+│                          ?  │  ← giant background ?, #1a1a1a
 │                             │
-│   [PERTANYAAN / AJAKAN]     │
-│   2-4 baris                 │
+│  [CTA QUESTION]             │  ← 44px bold
 │                             │
-│   @stopnormalisasi.id       │
-│   #hashtag1 #hashtag2       │
-│   #hashtag3                 │
+│  [━━━━]                     │  ← red divider
 │                             │
+│  [sub text]                 │  ← 24px, abu-abu
+│                             │
+│  #tag1 #tag2 #tag3          │  ← 18px, merah
+│                             │
+│ @stopnormalisasi.id  08/08  │
 └─────────────────────────────┘
 ```
-- Background: sama dengan slide 1 (konsistensi)
-- Font: medium, bukan terlalu besar
-- Hashtag di bawah, kecil, tidak bold
 
 ---
 
 ## Spesifikasi Teknis (Instagram)
 
-| Elemen | Ukuran |
-|--------|--------|
-| Rasio slide | 1:1 (1080x1080px) atau 4:5 (1080x1350px) |
-| Font narasi | 28-36px |
-| Font hook (slide 1) | 48-60px |
-| Font caption meme | 20-24px, italic |
-| Meme image | max 600px wide, centered |
-| Margin/padding | minimal 60px dari tepi |
-
----
-
-## Warna Brand (Draft)
-
-| Elemen | Warna |
+| Elemen | Nilai |
 |--------|-------|
-| Background utama | Putih `#FFFFFF` atau Hitam `#111111` |
-| Teks utama | Hitam `#111111` atau Putih `#F5F5F5` |
-| Aksen/highlight | Merah `#E63946` — untuk kata kunci atau angka penting |
-| Caption meme | Abu-abu `#888888` |
-
-> **Catatan:** Warna brand belum final — ini draft. Sesuaikan dengan identitas visual yang akan dikembangkan.
+| Rasio | 1:1 (square) |
+| Dimensi | 1080 × 1080px |
+| Format output | PNG |
+| Margin luar | 100px kiri/kanan, 60-70px atas/bawah |
+| Meme max width | 580px |
+| Meme max height | 280px |
+| Meme border radius | 8px |
 
 ---
 
-## Checklist Sebelum Post
+## Checklist Sebelum Export
 
-- [ ] Slide 1 teks only, hook kuat, tanpa gambar
-- [ ] Setiap slide narasi ada di atas, meme di bawah
-- [ ] Caption meme maksimal 1 kalimat
-- [ ] Slide terakhir ada @stopnormalisasi.id dan hashtag
-- [ ] Tidak ada teks di-overlay di atas meme
-- [ ] Watermark akun ada di tiap slide
-- [ ] Data/angka di slide 3 ada sumber-nya
-- [ ] Tone check: provokatif tapi gak agresif? ✓
-- [ ] DON'Ts check: preachy? elitist? clickbait? ✗
+- [ ] Slide 1: teks only, tidak ada gambar atau meme
+- [ ] Setiap slide ada accent bar di kiri
+- [ ] Setiap slide ada watermark @stopnormalisasi.id
+- [ ] Setiap slide ada slide counter (01/08 dst)
+- [ ] Narasi di atas, meme di bawah — bukan terbalik
+- [ ] Caption meme tidak lebih dari 1 kalimat
+- [ ] Slide 8: ada hashtag, ada handle, big ? background
+- [ ] Data/angka di slide 3 ada sumber (kasual: "kata BPS")
+- [ ] Tone check: provokatif tapi tidak agresif?
+- [ ] DON'Ts check: preachy? elitist? clickbait?
