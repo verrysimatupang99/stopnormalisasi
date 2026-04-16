@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    width: 1080px;
+    height: 1080px;
+    background: #111111;
+    font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #F5F5F5;
+    overflow: hidden;
+    position: relative;
+  }
+
+  .slide-number {
+    position: absolute;
+    top: 40px;
+    left: 60px;
+    font-size: 16px;
+    color: #555555;
+    letter-spacing: 2px;
+  }
+
+  .cta-text {
+    font-size: 38px;
+    font-weight: 500;
+    line-height: 1.5;
+    text-align: center;
+    padding: 0 120px;
+    color: #E8E8E8;
+  }
+
+  .cta-text .accent {
+    color: #E63946;
+    font-weight: 700;
+  }
+
+  .divider {
+    width: 60px;
+    height: 3px;
+    background: #E63946;
+    margin: 50px 0;
+  }
+
+  .handle {
+    font-size: 28px;
+    color: #E63946;
+    font-weight: 700;
+    letter-spacing: 1px;
+  }
+
+  .hashtags {
+    margin-top: 20px;
+    font-size: 18px;
+    color: #555555;
+    letter-spacing: 1px;
+  }
+</style>
+</head>
+<body>
+  <div class="slide-number">8 / 8</div>
+  <div class="cta-text">{{CTA_TEXT}}</div>
+  <div class="divider"></div>
+  <div class="handle">@stopnormalisasi.id</div>
+  <div class="hashtags">{{HASHTAGS}}</div>
+</body>
+</html>

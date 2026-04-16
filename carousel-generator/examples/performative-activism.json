@@ -1,0 +1,57 @@
+{
+  "project": "performative-activism",
+  "theme": "Stop Normalisasi Pura-Pura Peduli",
+  "slides": [
+    {
+      "type": "hook",
+      "text": "lo pasang twibbon.<br>lo share infografis.<br>lo tulis \"we stand with X\" di story.<br><br>tapi lo sendiri<br><span class=\"accent\">masih bagian dari masalahnya.</span>"
+    },
+    {
+      "type": "narrative",
+      "label": "SETUP",
+      "text": "2020. George Floyd meninggal.<br>Indonesia ikut rame.<br>Twibbon BLM muncul di mana-mana.<br>Foto profil berubah hitam serentak.<br><br>Dan gue ngerti kenapa.<br>Rasa helpless itu nyata.",
+      "meme": "",
+      "meme_caption": "activism unlocked~"
+    },
+    {
+      "type": "narrative",
+      "label": "DATA",
+      "text": "tapi ada data yang jarang dibahas.<br><br>penelitian dari <span class=\"highlight\">Harvard (2021)</span><br>nemu bahwa online activism<br>tanpa tindakan nyata<br>justru bikin orang merasa<br>\"udah cukup berbuat sesuatu\" —<br>padahal belum ngapa-ngapain.<br><br>istilahnya: <span class=\"highlight\">moral licensing.</span>",
+      "meme": "",
+      "meme_caption": "good person moment"
+    },
+    {
+      "type": "narrative",
+      "label": "MISDIRECTION",
+      "text": "dan ini yang jarang diakui:<br><br>minggu yang sama lo pasang twibbon BLM,<br>lo masih ngatain orang dengan<br>\"item kayak orang Papua.\"<br>lo masih ketawa di grup chat<br>waktu ada joke soal kulit gelap.<br><br><span class=\"accent\">dari orang yang sama.</span>",
+      "meme": "",
+      "meme_caption": "gak keliatan kalau gue sendiri"
+    },
+    {
+      "type": "narrative",
+      "label": "KONTEKS LEBIH BESAR",
+      "text": "ini bukan cuma soal individu yang hipokrit.<br><br>ini soal budaya yang normalisasi<br><span class=\"highlight\">aktivisme sebagai estetika</span> —<br>bukan sebagai komitmen.<br><br>kita dibesarkan di era di mana<br>kepedulian diukur dari<br>seberapa banyak lo share,<br>seberapa viral konten lo.",
+      "meme": "",
+      "meme_caption": "mereka gak tau gue udah share 3 konten hari ini"
+    },
+    {
+      "type": "narrative",
+      "label": "DASAR / BUKTI",
+      "text": "performative activism ini punya nama resmi:<br><br><span class=\"highlight\">Slacktivism.</span><br>atau dalam konteks yang lebih dalam —<br><span class=\"highlight\">Virtue Signaling.</span><br><br>peneliti Kristofferson, White & Peloza <span class=\"data\">(2014)</span><br>nemu bahwa orang yang melakukan<br>\"public acts of support\" yang kecil<br>justru lebih kecil kemungkinannya<br>untuk melakukan aksi nyata setelahnya.",
+      "meme": "",
+      "meme_caption": "aktivis tapi masih rasis? surprised?"
+    },
+    {
+      "type": "narrative",
+      "label": "PUNCHLINE",
+      "text": "jadi sebelum lo share konten berikutnya<br>atas nama solidaritas —<br><br>tanya dulu ke diri sendiri:<br><br>lo ngelakuin ini<br>karena lo <span class=\"accent\">genuinely peduli?</span><br><br>atau karena lo gak mau<br><span class=\"accent\">keliatan gak peduli?</span><br><br><span class=\"highlight\">dua hal itu beda.</span>",
+      "meme": "",
+      "meme_caption": "peduli itu kerja. bukan konten."
+    },
+    {
+      "type": "cta",
+      "text": "gue gak nulis ini buat judge lo.<br>gue nulis ini karena<br>gue juga pernah di posisi itu.<br><br>masih sering, malah~<br><br><span class=\"accent\">lo pernah nyadar lagi ngelakuin ini?</span>",
+      "hashtags": "#StopNormalisasi #PerformativeActivism #YangLoAnggapNormal"
+    }
+  ]
+}
