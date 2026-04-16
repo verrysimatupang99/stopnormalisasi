@@ -1,6 +1,7 @@
 # Identitas Akun @stopnormalisasi.id
 > Draft visi, misi, target audiens, voice guide, & meme reference
 > Tanggal: 2026-04-16
+> Updated: 2026-04-16 (tambah detail voice guide dari riset akun referensi)
 
 ---
 
@@ -13,7 +14,7 @@ Membangun generasi Indonesia yang kritis terhadap hal-hal yang dianggap "normal"
 - Mengungkap praktik, mindset, dan sistem yang dinormalisasi padahal merugikan
 - Membahas isu dengan cara yang accessible, engaging, dan shareable
 - Membangun komunitas yang berani mempertanyakan status quo
-- Mengubah cara orang Indonesia melihat "normalitas" -- dari pasif ke kritis
+- Mengubah cara orang Indonesia melihat "normalitas" — dari pasif ke kritis
 
 ### Tagline (Draft)
 - "Yang lo anggap normal, belum tentu bener."
@@ -62,13 +63,17 @@ Membangun generasi Indonesia yang kritis terhadap hal-hal yang dianggap "normal"
 
 | Prinsip | Contoh |
 |---------|--------|
-| Pakai bahasa sehari-hari | "Gak" bukan "tidak", "lo" bukan "kamu" (sesekali) |
+| Pakai bahasa sehari-hari | "Gak" bukan "tidak", "kalo" bukan "kalau", "lo" bukan "kamu" |
 | Provokatif tapi gak agresif | "Pernah mikir gak sih..." bukan "Lo harus tau nih!" |
 | Relatable | Pakai contoh dari kehidupan sehari-hari |
 | Dark humor | Humor yang bikin mikir, bukan yang bikin sakit hati |
-| Data-backed | Kalau ngomongin angka, kasih sumber |
+| Data-backed | Kalau ngomongin angka, kasih sumber (casual: "kata BPS", "kata WHO") |
 | Empati | Paham kalau reader juga korban sistem, bukan pelaku |
 | Bahasa Indonesia campur Inggris natural | "Toxic positivity" bukan "positivitas racun" |
+| Tilde~ untuk sarkasme halus | "activism unlocked~" bukan "sarkasme kasar" |
+| Emoji sebagai punctuation | Emoji di akhir kalimat sebagai penegas, bukan dekorasi |
+| Triple letter untuk emphasis | "jujurrr", "benerrr" — sesekali, tidak berlebihan |
+| "mungkin banyak di antara kita" | Untuk relatability — ajak reader merasa bagian dari cerita |
 
 ### DON'Ts
 
@@ -81,6 +86,8 @@ Membangun generasi Indonesia yang kritis terhadap hal-hal yang dianggap "normal"
 | Jangan over-formal | ~~"Sebagaimana kita ketahui bersama..."~~ |
 | Jangan SARA langsung | Bahas isu tanpa menyudutkan SARA tertentu |
 | Jangan copy mentah | ~~(paste konten orang tanpa konteks)~~ |
+| Jangan terlalu banyak emoji | Max 2-3 emoji per slide — lebih dari itu jadi noisy |
+| Jangan hard sell CTA | ~~"Like, share, dan follow!"~~ — CTA harus soft dan genuinely ajak diskusi |
 
 ### Contoh Kalimat
 
@@ -90,6 +97,10 @@ Membangun generasi Indonesia yang kritis terhadap hal-hal yang dianggap "normal"
 > "Pernah mikir gak sih, kenapa lembur itu dinormalisasi tapi dibayar itu opsional?"
 
 > "Mental health awareness naik tapi stigma ke psikolog masih tinggi. Ironi yang harus kita bahas."
+
+> "mungkin banyak di antara kita yang tanpa sadar udah normalisasi hal ini..."
+
+> "masih sering, malah~"
 
 **DON'T:**
 > ~~"Kalian harus tau bahwa sistem pendidikan Indonesia itu gagal!"~~ (preachy, agresif)
