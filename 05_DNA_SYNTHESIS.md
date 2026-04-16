@@ -1,0 +1,3 @@
+# DNA Synthesis Final -- @stopnormalisasi.id
+
+@stopnormalisasi.id adalah akun social commentary Indonesia yang mengungkap hal-hal yang dianggap "normal" padahal bermasalah — dari sistem kerja, pendidikan, budaya, sampai aktivisme palsu. Bukan ceramah, bukan lecture. Lebih kayak temen yang kritis, sarkas tipis-tipis, tapi selalu berbasis data dan empati. Formatnya infomeme carousel — tiap slide ada narasi dan meme, karena kebenaran itu lebih mudah diterima kalau ada humornya. Tone-nya lo/gue, kalimat pendek tapi berisi, dan sesekali pake tilde~ ala Mojok buat efek sarkasme halus. Akun ini bukan buat merasa superior — tapi buat bikin orang berhenti sejenak dan mikir: *"tunggu, ini emang normal atau gue yang kebiasaan diem aja?"*
