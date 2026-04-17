@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "title": "Selective Outrage: FHUI vs LANY",
+    "series": "topical",
+    "theme": "selective_outrage",
+    "date": "2026-04-16",
+    "notes": "Konten topical — pakai momen viral FHUI April 2026 + LANY announce konser"
+  },
+  "slides": [
+    {
+      "type": "hook",
+      "hook_text": "lo share soal FHUI.\nlo bilang percaya korban.\n\ntiketnya udah di tangan."
+    },
+    {
+      "type": "narrative",
+      "slide_number": "02",
+      "narrative_text": "Minggu ini, 16 mahasiswa FH UI viral.\nGrup chat berisi pelecehan verbal —\n27 korban, mahasiswi dan dosen.\n\nTimeline penuh kemarahan.\nPetisi beredar.\nSemua orang tiba-tiba 'percaya korban.'",
+      "meme_src": "",
+      "meme_caption": "rame banget... sampai ada konser baru yang diumumin"
+    },
+    {
+      "type": "narrative",
+      "slide_number": "03",
+      "narrative_text": "Hari yang sama FHUI viral —\nada band yang announce konser Jakarta.\n\nVokalisnya punya riwayat tuduhan:\nabuse of power, manipulasi fans,\nperilaku predatory.\n\nTiket sold out.",
+      "meme_src": "",
+      "meme_caption": "dua berita. satu hari. respons yang berbeda~"
+    },
+    {
+      "type": "narrative",
+      "slide_number": "04",
+      "narrative_text": "Dan FHUI bukan satu-satunya.\n\nHMT ITB: lagu bermuatan pelecehan di OSD.\nMahasiswa IPB: grup chat serupa,\nkorban dibungkam sejak 2024.\n\nTapi kemarahan lo... milih-milih.",
+      "meme_src": "",
+      "meme_caption": "selective outrage speedrun any%"
+    },
+    {
+      "type": "narrative",
+      "slide_number": "05",
+      "narrative_text": "Ini bukan soal lo orang jahat.\n\nIni soal gimana kemarahan kita\ndibentuk oleh apa yang lagi trending —\nbukan oleh prinsip yang konsisten.",
+      "meme_src": "",
+      "meme_caption": "marah kalau rame. diam kalau sepi."
+    },
+    {
+      "type": "narrative",
+      "slide_number": "06",
+      "narrative_text": "Selective outrage itu nyaman.\n\nLo bisa ngerasa udah 'berpihak'\ntanpa harus ubah kebiasaan.\ntanpa harus batalin tiket.\ntanpa harus konsisten.",
+      "meme_src": "",
+      "meme_caption": "activism yang gak ganggu jadwal~"
+    },
+    {
+      "type": "narrative",
+      "slide_number": "07",
+      "narrative_text": "Peduli itu gampang waktu semua orang nonton.\n\nYang susah itu:\npeduli waktu artis favorit lo yang terlibat.\npeduli waktu kasusnya udah gak trending.\npeduli waktu itu merugikan lo.",
+      "meme_src": "",
+      "meme_caption": "itulah yang ngebedain peduli vs ikut arus"
+    },
+    {
+      "type": "cta",
+      "cta_question": "Lo peduli sama kasusnya.\natau cuma sama trendingnya?",
+      "cta_subtext": "Bedain dua hal itu dulu.\nbaru ngomong soal berpihak.",
+      "hashtag_1": "#StopNormalisasi",
+      "hashtag_2": "#SelectiveOutrage",
+      "hashtag_3": "#PercayaKorban"
+    }
+  ]
+}

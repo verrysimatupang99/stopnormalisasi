@@ -1,0 +1,64 @@
+{
+  "meta": {
+    "title": "Kamus: Selective Outrage",
+    "series": "kamus",
+    "theme": "selective_outrage",
+    "date": "2026-04-18"
+  },
+  "slides": [
+    {
+      "type": "hook",
+      "hook_text": "Selective Outrage.\nlo mungkin belum tau namanya.\ntapi lo pasti pernah ngelakuinnya."
+    },
+    {
+      "type": "narrative",
+      "slide_number": "02",
+      "narrative_text": "Selective Outrage adalah:\n\nkemarahan yang lo keluarkan hanya\npada isu-isu tertentu —\nbukan karena konsistensi nilai,\ntapi karena lagi trending,\natau karena gak mengorbankan apapun dari lo.",
+      "meme_src": "",
+      "meme_caption": "bukan dari KBBI. tapi dari timeline lo."
+    },
+    {
+      "type": "narrative",
+      "slide_number": "03",
+      "narrative_text": "Contoh gampangnya:\n\nLo rame soal FHUI —\n16 mahasiswa, 27 korban, viral semua.\n\nTapi tiket konser artis\nyang punya riwayat tuduhan serupa?\nUdah di tangan.",
+      "meme_src": "",
+      "meme_caption": "dua kasus. satu standar yang berbeda~"
+    },
+    {
+      "type": "narrative",
+      "slide_number": "04",
+      "narrative_text": "Di Indonesia, ini muncul waktu:\n\n→ Kasus kampus viral, tapi kasus serupa\n   yang gak trending dibiarkan\n\n→ Marah soal korupsi pejabat A,\n   diem soal korupsi pejabat B (yang lo dukung)\n\n→ Peduli sama isu lingkungan,\n   tapi tetep fast fashion tiap bulan",
+      "meme_src": "",
+      "meme_caption": "familiar kan?"
+    },
+    {
+      "type": "narrative",
+      "slide_number": "05",
+      "narrative_text": "Kenapa ini terjadi?\n\nKita dikondisikan marah\nberdasarkan apa yang ada di timeline —\nbukan berdasarkan prinsip yang konsisten.\n\nAlgoritma menentukan\napa yang 'layak' dimarahin.",
+      "meme_src": "",
+      "meme_caption": "kamu pikir kamu marah sendiri?"
+    },
+    {
+      "type": "narrative",
+      "slide_number": "06",
+      "narrative_text": "Yang bikin bahaya:\n\nSelective outrage membuat\nisu-isu yang tidak trending\ntenggelam selamanya.\n\nKorban yang kasusnya\ngak viral — tidak dianggap.",
+      "meme_src": "",
+      "meme_caption": "justice tapi cuma buat yang viral"
+    },
+    {
+      "type": "narrative",
+      "slide_number": "07",
+      "narrative_text": "Sekarang lo tau namanya.\n\nSadar bukan berarti lo sempurna.\nTapi sadar berarti lo bisa tanya:\n\n'Gue marah karena nilai gue —\natau karena timeline gue?'",
+      "meme_src": "",
+      "meme_caption": "naming it is the first step."
+    },
+    {
+      "type": "cta",
+      "cta_question": "Lo pernah nyadar lagi selective outrage?\nAtau ngeliat orang lain melakukannya?",
+      "cta_subtext": "Cerita di komentar.\nGue baca semua.",
+      "hashtag_1": "#StopNormalisasi",
+      "hashtag_2": "#SelectiveOutrage",
+      "hashtag_3": "#KamusKritis"
+    }
+  ]
+}

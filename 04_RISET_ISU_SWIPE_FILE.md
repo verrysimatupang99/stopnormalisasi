@@ -1,6 +1,7 @@
 # Riset Isu & Swipe File @stopnormalisasi.id
 > Kumpulan hook, punchline, dan dasar hukum per tema campaign
 > Tanggal: 2026-04-16
+> Updated: 2026-04-18 (tambah Tema 8: Selective Outrage, Section Kamus Istilah)
 
 ---
 
@@ -183,6 +184,77 @@ PUNCHLINE: "Tapi akses ke psikolog tetap mahal dan stigma tetap tinggi. Awarenes
 
 ---
 
+## Tema 8: Selective Outrage
+
+> Topical: Momen FHUI April 2026 — gunakan selagi masih relevan.
+> JSON siap generate: `carousel-generator/examples/selective-outrage-fhui-lany.json`
+> JSON kamus: `carousel-generator/examples/kamus-selective-outrage.json`
+
+### Konteks Kasus (April 2026)
+- **FHUI**: 16 mahasiswa, grup chat pelecehan verbal, 27 korban (mahasiswi + dosen), viral 13-14 April 2026
+- **HMT ITB**: lagu bermuatan pelecehan di OSD, minta maaf 15 April 2026
+- **IPB TMB-59**: grup chat pelecehan serupa, korban dibungkam sejak 2024, viral 14 April 2026
+- **LANY**: announce konser Jakarta 30 Oktober 2026 di hari yang sama FHUI viral; vokalis punya riwayat tuduhan
+
+### Hook & Punchline
+```
+HOOK: "lo share soal FHUI. lo bilang percaya korban. tiketnya udah di tangan."
+PUNCHLINE: "itulah yang ngebedain peduli vs ikut arus."
+
+HOOK: "Kasus yang viral dapat ribuan share. Kasus yang sama tapi sepi?"
+PUNCHLINE: "Korban yang sama. Keadilan yang berbeda. Tergantung algoritmanya."
+
+HOOK: "Lo marah soal kampus A. Diem soal kampus B."
+PUNCHLINE: "Bukan karena kasusnya beda. Tapi karena timeline-nya beda."
+
+HOOK: "Peduli itu gampang waktu semua orang nonton."
+PUNCHLINE: "Yang susah itu peduli waktu gak ada yang nonton — dan waktu itu merugikan lo."
+```
+
+---
+
+## Kamus Istilah @stopnormalisasi.id
+
+> Lihat `12_SERIES_KAMUS.md` untuk daftar lengkap dan status produksi.
+> Setiap istilah di bawah = 1 carousel tersendiri.
+
+### Selective Outrage
+> Kemarahan yang hanya muncul pada isu tertentu — bukan karena nilai yang konsisten, tapi karena trending atau tidak mengorbankan apapun dari lo.
+- **Contoh lokal:** Rame FHUI, diam saat kasus serupa di kampus lain; peduli korupsi A, tutup mata korupsi B
+- **JSON:** `carousel-generator/examples/kamus-selective-outrage.json`
+
+### Performative Activism
+> Aktivisme yang lebih fokus terlihat peduli daripada benar-benar membuat perubahan.
+- **Contoh lokal:** Twibbon profpic, share petisi tanpa follow-up, "awareness" tanpa aksi nyata
+- **JSON:** *(gunakan `07_CONTOH_KONTEN_PERFORMATIVE_ACTIVISM.md` sebagai referensi)*
+
+### Moral Licensing
+> Merasa sudah "cukup baik" karena satu kebaikan, sehingga membenarkan perilaku buruk selanjutnya.
+- **Contoh lokal:** "Gw udah donate, boleh dong beli barang fast fashion"; "Gw udah voting, gak usah aktif lagi"
+- **JSON:** 🔲 Belum dibuat
+
+### Gaslighting Institusional
+> Ketika institusi (kampus, perusahaan, pemerintah) membuat korban meragukan pengalaman mereka sendiri.
+- **Contoh lokal:** Kampus bilang "selesaikan secara internal"; HR bilang "mungkin lo salah paham"
+- **JSON:** 🔲 Belum dibuat
+
+### Tone Policing
+> Mengalihkan fokus dari isu ke cara seseorang menyampaikan isu — sebagai cara membungkam.
+- **Contoh lokal:** "Caranya protes harus sopan dong"; "Kok marah-marah? Gak akan didengar kalau kayak gitu"
+- **JSON:** 🔲 Belum dibuat
+
+### Bystander Effect
+> Kecenderungan tidak bertindak karena berasumsi orang lain sudah/akan bertindak.
+- **Contoh lokal:** "Kirain ada yang udah lapor"; teman korban yang diam karena "bukan urusan gw"
+- **JSON:** 🔲 Belum dibuat
+
+### Whataboutism
+> Mengalihkan kritik dengan menunjuk isu lain — bukan untuk menyelesaikan masalah, tapi untuk menghindarinya.
+- **Contoh lokal:** "Lah yang di sana gimana?"; "Dulu pas [partai lain] lebih parah"
+- **JSON:** 🔲 Belum dibuat
+
+---
+
 ## Swipe File: Hook Templates
 
 ### Template Provokatif
@@ -208,6 +280,15 @@ PUNCHLINE: "Tapi akses ke psikolog tetap mahal dan stigma tetap tinggi. Awarenes
 "Yang ngalamin [situasi] pasti paham: [deskripsi relatable]."
 ```
 
+### Template Kamus
+```
+"[ISTILAH].\nlo mungkin belum tau namanya.\ntapi lo pasti pernah ngalaminnya."
+
+"Ada istilahnya buat yang lo rasain itu.\nNamanya [ISTILAH]."
+
+"[ISTILAH] bukan teori barat.\nLo ngalaminnya tiap hari."
+```
+
 ### Template Callback
 ```
 "Masih inget [post sebelumnya]? Update: [perkembangan]."
@@ -227,4 +308,6 @@ PUNCHLINE: "Tapi akses ke psikolog tetap mahal dan stigma tetap tinggi. Awarenes
 "...yang [benefit] itu [pihak yang salah]. Yang [cost] itu [pihak yang benar]."
 
 "...padahal yang [masalah] itu [sistem/struktur], bukan [individu]."
+
+"Sekarang lo tau namanya. Naming it is the first step."
 ```
