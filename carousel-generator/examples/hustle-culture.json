@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "judul_internal": "Hustle Culture = Glorifikasi Eksploitasi",
+    "series": "Topical",
+    "handle": "@stopnormalisasi.id",
+    "tanggal_produksi": "2026-04-22",
+    "status": "DRAFT"
+  },
+  "slides": [
+    {
+      "slide": "01",
+      "label": "HOOK",
+      "teks": "\"Kerja keras itu kunci sukses.\"\n\nTapi kenapa yang paling keras kerja\nseringnya yang paling kecil gajinya?"
+    },
+    {
+      "slide": "02",
+      "label": "SETUP",
+      "teks": "Hustle culture ngajarin kita satu hal:\nkalo lo belum sukses, berarti lo kurang usaha.\n\nBukan sistemnya yang salah.\nBukan gajinya yang gak layak.\nBukan jam kerjanya yang gak manusiawi.\n\nLo. Aja. Yang. Kurang. Keras.",
+      "meme": {
+        "deskripsi": "Distracted Boyfriend — cowok (perusahaan) lirik cewek lain (produktivitas tanpa batas), sambil cewek pertama (kesehatan mental karyawan) diabaikan",
+        "caption": "*\"udah kerja 14 jam tapi kok gak ngerasa produktif ya~\""
+      }
+    },
+    {
+      "slide": "03",
+      "label": "DATA",
+      "teks": "WHO udah resmi masukin burnout\nke dalam ICD-11 sebagai kondisi medis (2019).\n\nTapi di Indonesia, burnout masih sering dijawab:\n\"Coba istirahat dulu, besok semangat lagi ya!\"\n\nKita punya 1 psikolog untuk 50.000 orang.\nSementara hustle culture terus dipromote\ndi setiap LinkedIn post yang viral.",
+      "meme": {
+        "deskripsi": "Drake meme — Drake tolak 'istirahat yang cukup & batas jam kerja', Drake setuju 'rise and grind, sleep is for the weak'",
+        "caption": "*\"kita semua drake yang ini~\""
+      }
+    },
+    {
+      "slide": "04",
+      "label": "FAKTOR STRUKTURAL",
+      "teks": "Hustle culture bukan cuma mindset.\nIni produk sistem yang menguntungkan satu pihak.\n\nKalo lo percaya kegagalan lo = kurang usaha,\nlo gak akan pernah protes upah rendah.\nLo gak akan nuntut jam kerja yang wajar.\nLo malah bakal bangga lembur tanpa dibayar.\n\nKapital senang. Lo yang capek.",
+      "meme": {
+        "deskripsi": "TIDAK PERLU MEME",
+        "caption": null
+      }
+    },
+    {
+      "slide": "05",
+      "label": "KONTEKS INDONESIA",
+      "teks": "Di Indonesia, lembur tanpa kompensasi itu...\nmungkin banyak di antara kita yang udah normalize.\n\nILO nyatet: 67% pekerja Indonesia lembur\ntanpa kompensasi sesuai aturan.\n\nUU No. 13/2003 sebenarnya udah atur soal ini.\nTapi siapa yang berani komplain\nkalo kultusnya adalah 'yang tahan banting yang survive'?",
+      "meme": {
+        "deskripsi": "This is fine — anjing duduk di ruangan terbakar, sambil minum kopi, caption diganti jadi 'hari pertama kerja setelah tau gak ada overtime pay'",
+        "caption": "*\"growth mindset katanya~\""
+      }
+    },
+    {
+      "slide": "06",
+      "label": "KONSEKUENSI",
+      "teks": "Kalo hustle culture terus dinormalisasi,\nkita akan terus punya generasi yang:\n\n— bangga sama exhaustion\n— malu kalo butuh istirahat\n— blaming diri sendiri buat masalah struktural\n— gak tau bedain ambisi sama eksploitasi\n\nDan siklus ini... menguntungkan siapa?",
+      "meme": {
+        "deskripsi": "TIDAK PERLU MEME",
+        "caption": null
+      }
+    },
+    {
+      "slide": "07",
+      "label": "PUNCHLINE",
+      "teks": "Hustle culture bukan motivasi.\nItu cara sistem bikin lo blame yourself\nsupaya lo gak blame the system.\n\nLo bukan kurang keras.\nSistemnya yang kurang adil.",
+      "meme": {
+        "deskripsi": "Pointing Leo DiCaprio — orang nunjuk layar saat baca tulisan 'lo bukan kurang keras, sistemnya yang kurang adil'",
+        "caption": "*\"akhirnya ada yang bilang\""
+      }
+    },
+    {
+      "slide": "08",
+      "label": "CTA",
+      "pertanyaan": "Lo pernah ngerasa bersalah karena 'kurang produktif'? Atau justru sadar itu bukan salah lo?",
+      "sub_teks": "Cerita di komentar. Mungkin banyak yang ngerasa hal yang sama.",
+      "hashtag": [
+        "#StopNormalisasi",
+        "#HustleCulture",
+        "#KerjaTanpaBatas",
+        "#TopicalSeries"
+      ]
+    }
+  ],
+  "caption_instagram": "Kerja keras itu baik. Tapi ada bedanya antara ambisi dan eksploitasi yang dibungkus motivasi. Hustle culture ngajarin lo salah satu hal paling berbahaya: kalo lo gagal, itu salah lo sendiri. Lo pernah ngerasa begitu juga gak?"
+}
