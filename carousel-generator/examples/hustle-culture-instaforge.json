@@ -1,0 +1,67 @@
+{
+  "name": "sn-hustle-culture-glorifikasi-eksploitasi",
+  "ratio": "square",
+  "palette": "dark",
+  "fontPair": "bold",
+  "brand": "@stopnormalisasi.id",
+  "brandKit": {
+    "swipeDots": true,
+    "swipeDotStyle": "lines",
+    "slideNumbering": true,
+    "slideNumberFormat": "counter",
+    "logoPosition": "bottom-right",
+    "logoOpacity": 0.6,
+    "showOnFirst": false,
+    "showOnLast": true
+  },
+  "slides": [
+    {
+      "layout": "center",
+      "tag": "@stopnormalisasi.id",
+      "heading": "",
+      "body": "\"Kerja keras itu kunci sukses.\" Tapi kenapa yang paling keras kerja seringnya yang paling kecil gajinya?"
+    },
+    {
+      "layout": "left",
+      "tag": "02",
+      "heading": "{{SETUP}}",
+      "body": "Hustle culture ngajarin kita satu hal: kalo lo belum sukses, berarti lo kurang usaha. Bukan sistemnya yang salah. Bukan gajinya yang gak layak. Bukan jam kerjanya yang gak manusiawi. Lo. Aja. Yang. Kurang. Keras.\n\n*\"udah kerja 14 jam tapi kok gak ngerasa produktif ya~\""
+    },
+    {
+      "layout": "left",
+      "tag": "03",
+      "heading": "{{DATA}}",
+      "body": "WHO udah resmi masukin burnout ke dalam ICD-11 sebagai kondisi medis (2019). Tapi di Indonesia, burnout masih sering dijawab: \"Coba istirahat dulu, besok semangat lagi ya!\" Kita punya 1 psikolog untuk 50.000 orang. Sementara hustle culture terus dipromote di setiap LinkedIn post yang viral.\n\n*\"kita semua drake yang ini~\""
+    },
+    {
+      "layout": "left",
+      "tag": "04",
+      "heading": "{{FAKTOR STRUKTURAL}}",
+      "body": "Hustle culture bukan cuma mindset. Ini produk sistem yang menguntungkan satu pihak. Kalo lo percaya kegagalan lo = kurang usaha, lo gak akan pernah protes upah rendah. Lo gak akan nuntut jam kerja yang wajar. Lo malah bakal bangga lembur tanpa dibayar. Kapital senang. Lo yang capek."
+    },
+    {
+      "layout": "left",
+      "tag": "05",
+      "heading": "{{KONTEKS INDONESIA}}",
+      "body": "Di Indonesia, lembur tanpa kompensasi itu... mungkin banyak di antara kita yang udah normalize. ILO nyatet: 67% pekerja Indonesia lembur tanpa kompensasi sesuai aturan. UU No. 13/2003 sebenarnya udah atur soal ini. Tapi siapa yang berani komplain kalo kultusnya adalah 'yang tahan banting yang survive'?\n\n*\"growth mindset katanya~\""
+    },
+    {
+      "layout": "left",
+      "tag": "06",
+      "heading": "{{KONSEKUENSI}}",
+      "body": "Kalo hustle culture terus dinormalisasi, kita akan terus punya generasi yang: — bangga sama exhaustion — malu kalo butuh istirahat — blaming diri sendiri buat masalah struktural — gak tau bedain ambisi sama eksploitasi Dan siklus ini... menguntungkan siapa?"
+    },
+    {
+      "layout": "center",
+      "tag": "PUNCHLINE",
+      "heading": "",
+      "body": "Hustle culture bukan motivasi. Itu cara sistem bikin lo blame yourself supaya lo gak blame the system. Lo bukan kurang keras. Sistemnya yang kurang adil.\n\n*\"akhirnya ada yang bilang\""
+    },
+    {
+      "layout": "center",
+      "tag": "#StopNormalisasi #HustleCulture #KerjaTanpaBatas #TopicalSeries",
+      "heading": "",
+      "body": "Lo pernah ngerasa bersalah karena 'kurang produktif'? Atau justru sadar itu bukan salah lo?\n\nCerita di komentar. Mungkin banyak yang ngerasa hal yang sama."
+    }
+  ]
+}
